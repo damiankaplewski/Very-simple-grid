@@ -1,5 +1,4 @@
 Very simple grid - demo
-===================
 ----------
 -2 or 4 columns (you can edit/add these lines to CSS)
 
